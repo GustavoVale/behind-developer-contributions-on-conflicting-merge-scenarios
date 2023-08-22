@@ -4,7 +4,7 @@ This repository hosts the website, framework, and analysis script for the paper:
 
 * [Analysis script](https://github.com/GustavoVale/behind-developer-contributions-on-conflicting-merge-scenarios/tree/main/analysisScript)
 
-* [Raw Data](https://github.com/GustavoVale/predicting-merge-conflicts-considering-social-and-technical-assets/blob/main/raw-input-data/ms-data.csv)
+* [Raw Data](https://github.com/GustavoVale/behind-developer-contributions-on-conflicting-merge-scenarios/tree/main/raw-data)
 
 * [Framework](https://github.com/GustavoVale/predicting-merge-conflicts-considering-social-and-technical-assets/tree/main/data-collection-framework)
 
