@@ -8,4 +8,4 @@ This repository hosts the website, framework, and analysis script for the paper:
 
 * [Framework](https://github.com/GustavoVale/predicting-merge-conflicts-considering-social-and-technical-assets/tree/main/data-collection-framework)
 
-* [Subject projects list](https://github.com/GustavoVale/predicting-merge-conflicts-considering-social-and-technical-assets/blob/main/website/subject-projects-overview.html)
+* [Subject projects list](https://gustavovale.github.io/behind-developer-contributions-on-conflicting-merge-scenarios/subject-projects-overview.html)
